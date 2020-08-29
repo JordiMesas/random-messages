@@ -1,20 +1,28 @@
 {
-  "name": "random-messages",
-  "version": "1.0.0",
-  "description": "messages random",
-  "main": "src/inde.js\u001b[D\u001b[D\u001b[Dx.js",
+  "name": "jordidvlop10-random-names",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "bin": {
+    "jordidvlop10-random-name": "./bin/global.js"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "javascript",
-    "node",
-    "npm"
+    "npm",
+    "node"
   ],
   "author": "Jordi Mesas <jordimesas54@gmail.com>",
   "license": "MIT",
-  "bin": {
-    "random-msg": "./bin/global.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordiMesas/random-messages.git"
   },
-  "preferGlobal": true
+  "bugs": {
+    "url": "https://github.com/JordiMesas/random-messages/issues"
+  },
+  "homepage": "https://github.com/JordiMesas/random-messages#readme"
 }
