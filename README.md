@@ -1,6 +1,15 @@
 # random-messages
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+When using this package, it will get a random name from the list I made
+
+list:
+    "jordi",
+    "Carolina",
+    "Paula",
+    "Anna",
+    "Nicolau",
+    "Yesica",
+    "Laura"
 
 ## Install
 
