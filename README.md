@@ -15,7 +15,7 @@ jordidvlop10-random-names
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](git remote add origin git@github.com:JordiMesas/random-messages.git)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-msg](https://github.com/JordiMesas/random-messages)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
